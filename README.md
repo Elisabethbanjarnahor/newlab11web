@@ -6,6 +6,7 @@
 
 ## foto
 ![foto](https://github.com/Elisabethbanjarnahor/newlab11web/blob/31a75a62f622050000c0e8242c1388af71a99b80/Screenshot%202025-12-24%20214613.png)
+![foto](https://github.com/Elisabethbanjarnahor/newlab11web/blob/ebaf9116e5bfb3c61b6bb2d080476dd409f06813/Screenshot%202025-12-24%20220607.png)
 
 ### penjelasan file index.php
 
